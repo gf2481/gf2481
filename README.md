@@ -1,4 +1,7 @@
-### Hi there 👋
+I am Gaoyang from China 
+A fact about me is that I am super afraid of cats🐱, and also of rats🐭
+So I basically cannot watch Tom and Jerry
+Hope we can all master test analysis with Python
 
 <!--
 **gf2481/gf2481** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
